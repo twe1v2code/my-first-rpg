@@ -7,7 +7,6 @@ int main(void)
 
     puts("Welcome to RPG story\n");
     printf("Enter your name: \n\n");
-
     scanf("%s", hero.name);
     init_player(100, 50, 5, &hero);
 
