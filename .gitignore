@@ -1,0 +1,34 @@
+# Компилируемые файлы и исполняемые файлы
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dll
+
+
+
+
+# Файлы отладки
+*.dSYM/
+*.log
+*.stackdump
+*.swp
+*.swo
+vgcore.*
+
+# Файлы Make
+Makefile~
+CMakeCache.txt
+CMakeFiles/
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.iml
+*.code-workspace
+todo.txt
+
+# Файлы, создаваемые GDB (отладчик)
+gdb.txt
+gdb.log
