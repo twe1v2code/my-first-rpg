@@ -38,8 +38,6 @@ A text-based game written in C where the player fights different types of enemie
 ## Status
 The game is currently in development.
 
-## License
-This project is licensed under the MIT License.
 
 ---
 
